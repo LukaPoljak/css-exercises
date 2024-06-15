@@ -1,0 +1,19 @@
+.aClass{
+    background-color: pink;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+.aClass.butCool{
+    font-size: 24px;
+}
+
+#two{
+    color:blue;
+    font-size: 36px;
+}
+
+#four{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
